@@ -1,6 +1,6 @@
 # Ruby-Calculator
 
-![my badge](https://badgen.net/badge/RubyUnitTest/success/green)
+![my badge](https://badgen.net/badge/Ruby-Calculator/success/green)
 
 A simple Calculator Program where you can calculate two numbers.
 
